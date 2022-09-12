@@ -9,6 +9,8 @@
 - Stylelint (A mighty, modern linter that helps you avoid errors and enforce conventions in your styles).
 - ESlint (A mighty, modern linter that helps you avoid errors and enforce conventions in JavaScript codes)
 - Webpack
+- Languages: JavaScript
+- Framework: React Js
 
 To get a local copy up and running follow these simple example steps.
 
@@ -27,7 +29,8 @@ The basic requirements for building the executable are:
 ```
 git clone  <https://github.com/d2ndjim/hello-rails-frontend.git>
 ```
-
+`cd hello-rails-frontend`</br>
+`npm install`</br>
 ## Getting packages and debuging with Stylelint
 
 ```
